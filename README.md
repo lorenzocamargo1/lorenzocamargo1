@@ -6,19 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzocamargo1" alt="lorenzocamargo1" /></a> </p>
 
 
-- 🔭 I’m currently working on [TopGun Project](https://github.com/Thiagoncg/CarttonTopGun)
+- 🔭 I’m currently working on [toDo Project](https://github.com/Thiagoncg/CarttonTopGun)
 
-- 🌱 I’m currently learning **Java,Javascript,C#,Css**
-
-- 👯 I’m looking to collaborate on **Calculadora Python**
+- 🌱 I’m currently learning **ReactNative**
 
 - 🤝 I’m looking for help with [UnityEventosBarao](https://github.com/Thiagoncg/UnityEventosBarao)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lorenzocamargo1?tab=repositories](https://github.com/lorenzocamargo1?tab=repositories)
 
-- 📝 I regularly write articles on [http://www.techtudo.com.br](http://www.techtudo.com.br)
-
-- 💬 Ask me about **Games,Tecnology,Programming,Web Applications and Android Apps**
+- 💬 Ask me about **Games,Tecnology,Programming,Web Applications and Apps**
 
 - 📫 How to reach me **lorenzomatheo@hotmail.com**
 
