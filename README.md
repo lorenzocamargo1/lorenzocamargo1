@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **lorenzomatheo@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lorenzo-camargo-a73611272/](https://www.linkedin.com/in/lorenzo-camargo-a73611272/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/lorenzo-camargo-a73611272/]([https://www.linkedin.com/in/lorenzo-matheo-a73611272/]
 
 - ⚡ Fun fact **I think i'm funny and curious about the things i'm interested in my life**
 
